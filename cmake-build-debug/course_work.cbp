@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="course_work"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/ideaProjects/course_work/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/ideaProjects/course_work/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/ideaProjects/course_work/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/ideaProjects/course_work/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/ideaProjects/course_work/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/ideaProjects/course_work/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/ideaProjects/course_work/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/ideaProjects/course_work/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/ideaProjects/course_work/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/ideaProjects/course_work/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="course_work">
+				<Option output="C:/ideaProjects/course_work/cmake-build-debug/course_work.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/ideaProjects/course_work/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/ideaProjects/course_work/cmake-build-debug/Makefile&quot;  VERBOSE=1 course_work"/>
+					<CompileFile command="C:/PROGRA~1/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/ideaProjects/course_work/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/ideaProjects/course_work/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/ideaProjects/course_work/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="course_work/fast">
+				<Option output="C:/ideaProjects/course_work/cmake-build-debug/course_work.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/ideaProjects/course_work/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/ideaProjects/course_work/cmake-build-debug/Makefile&quot;  VERBOSE=1 course_work/fast"/>
+					<CompileFile command="C:/PROGRA~1/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/ideaProjects/course_work/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/ideaProjects/course_work/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/ideaProjects/course_work/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/ideaProjects/course_work/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/ideaProjects/course_work/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/ideaProjects/course_work/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/ideaProjects/course_work/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/ideaProjects/course_work/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/ideaProjects/course_work/header_files/book.h">
+			<Option target="course_work"/>
+		</Unit>
+		<Unit filename="C:/ideaProjects/course_work/header_files/book_io.h">
+			<Option target="course_work"/>
+		</Unit>
+		<Unit filename="C:/ideaProjects/course_work/header_files/book_list.h">
+			<Option target="course_work"/>
+		</Unit>
+		<Unit filename="C:/ideaProjects/course_work/header_files/book_node.h">
+			<Option target="course_work"/>
+		</Unit>
+		<Unit filename="C:/ideaProjects/course_work/header_files/ref_list.h">
+			<Option target="course_work"/>
+		</Unit>
+		<Unit filename="C:/ideaProjects/course_work/header_files/ref_node.h">
+			<Option target="course_work"/>
+		</Unit>
+		<Unit filename="C:/ideaProjects/course_work/header_files/search.h">
+			<Option target="course_work"/>
+		</Unit>
+		<Unit filename="C:/ideaProjects/course_work/header_files/str.h">
+			<Option target="course_work"/>
+		</Unit>
+		<Unit filename="C:/ideaProjects/course_work/header_files/str_list.h">
+			<Option target="course_work"/>
+		</Unit>
+		<Unit filename="C:/ideaProjects/course_work/header_files/str_node.h">
+			<Option target="course_work"/>
+		</Unit>
+		<Unit filename="C:/ideaProjects/course_work/main.cpp">
+			<Option target="course_work"/>
+		</Unit>
+		<Unit filename="C:/ideaProjects/course_work/source_files/book_io.cpp">
+			<Option target="course_work"/>
+		</Unit>
+		<Unit filename="C:/ideaProjects/course_work/source_files/book_list.cpp">
+			<Option target="course_work"/>
+		</Unit>
+		<Unit filename="C:/ideaProjects/course_work/source_files/book_node.cpp">
+			<Option target="course_work"/>
+		</Unit>
+		<Unit filename="C:/ideaProjects/course_work/source_files/ref_list.cpp">
+			<Option target="course_work"/>
+		</Unit>
+		<Unit filename="C:/ideaProjects/course_work/source_files/ref_node.cpp">
+			<Option target="course_work"/>
+		</Unit>
+		<Unit filename="C:/ideaProjects/course_work/source_files/search.cpp">
+			<Option target="course_work"/>
+		</Unit>
+		<Unit filename="C:/ideaProjects/course_work/source_files/str_list.cpp">
+			<Option target="course_work"/>
+		</Unit>
+		<Unit filename="C:/ideaProjects/course_work/source_files/str_node.cpp">
+			<Option target="course_work"/>
+		</Unit>
+		<Unit filename="C:/ideaProjects/course_work/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/ideaProjects/course_work/header_files/book.h
+str_list.h
+C:/ideaProjects/course_work/header_files/str_list.h
+
+C:/ideaProjects/course_work/header_files/book_node.h
+book.h
+C:/ideaProjects/course_work/header_files/book.h
+
+C:/ideaProjects/course_work/header_files/consts.h
+
+C:/ideaProjects/course_work/header_files/ref_list.h
+ref_node.h
+C:/ideaProjects/course_work/header_files/ref_node.h
+
+C:/ideaProjects/course_work/header_files/ref_node.h
+book_node.h
+C:/ideaProjects/course_work/header_files/book_node.h
+
+C:/ideaProjects/course_work/header_files/str.h
+consts.h
+C:/ideaProjects/course_work/header_files/consts.h
+
+C:/ideaProjects/course_work/header_files/str_list.h
+str_node.h
+C:/ideaProjects/course_work/header_files/str_node.h
+
+C:/ideaProjects/course_work/header_files/str_node.h
+str.h
+C:/ideaProjects/course_work/header_files/str.h
+
+C:/ideaProjects/course_work/source_files/ref_list.cpp
+../header_files/ref_list.h
+C:/ideaProjects/course_work/header_files/ref_list.h
+

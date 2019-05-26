@@ -1,0 +1,29 @@
+Books in library:
+"In Search of Lost Time" by Marcel Proust
+"Don Quixote" by Miguel de Cervantes
+"Ulysses" by James Joyce
+"The Great Gatsby" by F. Scott Fitzgerald
+"Moby Dick" by Herman Melville
+"Hamlet" by William Shakespeare
+"War and Peace" by Leo Tolstoy
+"The Odyssey" by Homer
+"One Hundred Years of Solitude" by Gabriel Garcia Marquez
+"The Divine Comedy" by Dante Alighieri
+"The Brothers Karamazov" by Fyodor Dostoyevsky
+"Madame Bovary" by Gustave Flaubert
+"The Adventures of Huckleberry Finn" by Mark Twain
+
+Books in other storage:
+"Nineteen Eighty Four" by George Orwell
+"Middlemarch" by George Eliot
+"Catch-22" by Joseph Heller
+"The Grapes of Wrath" by John Steinbeck
+"The Stories of Anton Chekhov" by Anton Chekhov
+"Absalom, Absalom!" by William Faulkner
+"The Trial" by Franz Kafka
+"Invisible Man" by Ralph Ellison
+
+Search book by Fyodor Dostoyevs in all storage
+
+Search result:
+
